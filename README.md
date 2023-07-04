@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Fighigh
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python, html and css
+- 🌱 I’m currently learning python and swift
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: contact me in discord Fighigh#0001
+- 📫 How to reach me: contact me in discord fighigh
 
 <!---
 Fighigh/Fighigh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
